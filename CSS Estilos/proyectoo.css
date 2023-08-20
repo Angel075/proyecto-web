@@ -9,6 +9,9 @@ body {
 a{
     text-decoration: none;
 }
+button{
+    text-decoration: none;
+}
 .padre{
     display: flex;
     flex-flow: column nowrap;
@@ -106,7 +109,7 @@ a{
                 }
                 .article a{
                     color: #fff;
-                    font-size: 10px;
+                    font-size: 12px;
                     padding: 10px 10px;
                     background: #000;
                     margin: 10px 0;
